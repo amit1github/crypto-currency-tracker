@@ -56,7 +56,7 @@ const Carousel = () => {
       </Link>
     );
   });
-
+ 
   const responsive = {
     0: {
       items: 2,
