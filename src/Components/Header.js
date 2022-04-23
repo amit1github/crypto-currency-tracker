@@ -41,7 +41,7 @@ const Header = () => {
                 cursor: "pointer",
               }}
             >
-              Crypto Hunter
+              Crypto Watcher
             </Typography>
 
             <Select
